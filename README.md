@@ -5,4 +5,4 @@ HittheBennies is a mobile application, inspired by whack a mole game, that pops 
 The game increment bombs for the player to avoid, and once a bomb is hit, the game is over.
 
 This Application was created using the Android Studio IDE, and development using Java13.0. 
-To download this application, click on the code button, scroll down to download .zip file, and open the extracted folder in android studio. 
+To download this application, click on the code button, scroll down to download HittheBennies-master2.zip file, and open the extracted folder in android studio. 
